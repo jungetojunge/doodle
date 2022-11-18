@@ -1,6 +1,30 @@
 # doodle
 What is doodle? It is abstract.
   
+
+
+
+```
+function recursive(n)
+    if n == base
+        return xbase
+    else
+        return f(n, recursive(n-1))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a release of several new models which were the result of an improvement
 the pre-processing code.
 
